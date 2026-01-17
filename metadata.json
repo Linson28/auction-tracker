@@ -1,0 +1,5 @@
+{
+  "name": "Auction Tracker",
+  "description": "A high-speed, minimal-tap mobile auction tracking app for cricket team owners. Manage budgets, track player statuses with vibrant color coding, and import/export auction data via Excel.",
+  "requestFramePermissions": []
+}
